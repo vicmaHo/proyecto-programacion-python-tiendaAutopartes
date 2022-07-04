@@ -1,3 +1,6 @@
+# Autor: Victor Manuel Hernandez
+# Fecha: 3 Jul 2022
+
 
 # Cada funcion cuenta con documentacion la cual indica como funciona y que hace
 
